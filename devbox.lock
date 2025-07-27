@@ -202,6 +202,54 @@
         }
       }
     },
+    "starship@1.23.0": {
+      "last_modified": "2025-07-13T22:45:35Z",
+      "resolved": "github:NixOS/nixpkgs/a421ac6595024edcfbb1ef950a3712b89161c359#starship",
+      "source": "devbox-search",
+      "version": "1.23.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/46bz6wrsrg1fb4ndj8bj29pa1mgszykb-starship-1.23.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/46bz6wrsrg1fb4ndj8bj29pa1mgszykb-starship-1.23.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/5yvsqxi415ifcdxii5haxl0118h4rlrp-starship-1.23.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/5yvsqxi415ifcdxii5haxl0118h4rlrp-starship-1.23.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ymd2pjpf637l7hpb7hncdsngb9pmdfsa-starship-1.23.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ymd2pjpf637l7hpb7hncdsngb9pmdfsa-starship-1.23.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/386pm68snbpr45ix2j7c90iif546nrnr-starship-1.23.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/386pm68snbpr45ix2j7c90iif546nrnr-starship-1.23.0"
+        }
+      }
+    },
     "stow@2.4.1": {
       "last_modified": "2025-07-13T22:45:35Z",
       "resolved": "github:NixOS/nixpkgs/a421ac6595024edcfbb1ef950a3712b89161c359#stow",
