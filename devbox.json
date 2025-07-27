@@ -5,7 +5,8 @@
     "nodejs@22.14.0",
     "fzf@0.64.0",
     "stow@2.4.1",
-    "starship@1.23.0"
+    "starship@1.23.0",
+    "tmux@3.5"
   ],
   "shell": {
     "init_hook": [

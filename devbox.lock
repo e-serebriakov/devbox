@@ -297,6 +297,74 @@
           "store_path": "/nix/store/x4c04zxfw5v46zhrcl64agipzzdih797-stow-2.4.1"
         }
       }
+    },
+    "tmux@3.5": {
+      "last_modified": "2025-07-13T22:45:35Z",
+      "resolved": "github:NixOS/nixpkgs/a421ac6595024edcfbb1ef950a3712b89161c359#tmux",
+      "source": "devbox-search",
+      "version": "3.5a",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/dgp97xsw8kaz0y9gmp6ssh3lydj7s384-tmux-3.5a",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/m5skyapp1g1kx9a6fyyhk8qxvrzbrazz-tmux-3.5a-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/dgp97xsw8kaz0y9gmp6ssh3lydj7s384-tmux-3.5a"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/qhsmmzrgiiz39rwnp3wpj3ph5r9zsfk2-tmux-3.5a",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/9cjblzlqgg4jcl1scz2i00wqjnghk9ly-tmux-3.5a-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/qhsmmzrgiiz39rwnp3wpj3ph5r9zsfk2-tmux-3.5a"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/liyxp2vdvg7vxvzm5ppgf23dp47gmr9i-tmux-3.5a",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/fb1cyf7da9fbm9vdcvz2ifn7ija0rsrm-tmux-3.5a-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/liyxp2vdvg7vxvzm5ppgf23dp47gmr9i-tmux-3.5a"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/39cyncc5vcj1iqpg874wz8568nzddw5h-tmux-3.5a",
+              "default": true
+            },
+            {
+              "name": "man",
+              "path": "/nix/store/zd6zdinq7i0sz686fglh9gzj39y5n71j-tmux-3.5a-man",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/39cyncc5vcj1iqpg874wz8568nzddw5h-tmux-3.5a"
+        }
+      }
     }
   }
 }
