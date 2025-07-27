@@ -3,7 +3,8 @@
   "packages": [
     "ripgrep@latest",
     "nodejs@22.14.0",
-    "fzf@0.64.0"
+    "fzf@0.64.0",
+    "stow@2.4.1"
   ],
   "shell": {
     "init_hook": [
