@@ -2,7 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.15.0/.schema/devbox.schema.json",
   "packages": [
     "nodejs@22.14.0",
-    "typescript-language-server@5.0.1"
+    "typescript-language-server@5.0.1",
+    "tailwindcss-language-server@0.14.28"
   ],
   "shell": {
     "init_hook": [

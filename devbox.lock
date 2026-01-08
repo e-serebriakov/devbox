@@ -86,6 +86,54 @@
         }
       }
     },
+    "tailwindcss-language-server@0.14.28": {
+      "last_modified": "2025-12-31T03:27:36Z",
+      "resolved": "github:NixOS/nixpkgs/f665af0cdb70ed27e1bd8f9fdfecaf451260fc55#tailwindcss-language-server",
+      "source": "devbox-search",
+      "version": "0.14.28",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/cy7xdbdas5y917mwzvir0g9glnpnnv4a-tailwindcss-language-server-0.14.28",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/cy7xdbdas5y917mwzvir0g9glnpnnv4a-tailwindcss-language-server-0.14.28"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/hjslcf2lvmkxfj51gjn1g0k9i5j1dpi2-tailwindcss-language-server-0.14.28",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/hjslcf2lvmkxfj51gjn1g0k9i5j1dpi2-tailwindcss-language-server-0.14.28"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/zgkp4kwm061ag171k3vqx0jq9ydc6x59-tailwindcss-language-server-0.14.28",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/zgkp4kwm061ag171k3vqx0jq9ydc6x59-tailwindcss-language-server-0.14.28"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/0pdsa4jdpj7fh21y8m8n24jmkpmdxh4n-tailwindcss-language-server-0.14.28",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/0pdsa4jdpj7fh21y8m8n24jmkpmdxh4n-tailwindcss-language-server-0.14.28"
+        }
+      }
+    },
     "typescript-language-server@5.0.1": {
       "last_modified": "2025-10-11T06:31:15Z",
       "resolved": "github:NixOS/nixpkgs/362791944032cb532aabbeed7887a441496d5e6e#typescript-language-server",
